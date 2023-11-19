@@ -22,7 +22,8 @@ This repository contains code for a deep learning model capable of adapting an e
       (i) Open jupyter notebook and navigate to the notebook. <br />
      (ii) Then open Dashtoon.ipynb in your browser. <br />
     (iii) Run the cells in the notebook one by one to execute the style transfer algorithm. <br />
-      **Note**
+
+      **Note**  <br />
       The notebook assumes the availability of GPU for faster computations. Make sure you have CUDA enabled if using a GPU.
       The provided paths for images ('/content1.jpeg' and '/style.jpeg') should be updated to your specific image file paths.
 
