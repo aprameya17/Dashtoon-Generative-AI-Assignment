@@ -21,16 +21,11 @@ This repository contains code for an image style transfer algorithm using VGG19 
 -Matplotlib
 
 3. **Running the Notebook**<br />
-      Open Jupyter Notebook
-
-jupyter notebook
-
-Navigate to the Notebook
-
-Open style_transfer.ipynb in your browser.
-Run the cells in the notebook one by one to execute the style transfer algorithm.
-**Note**
-The notebook assumes the availability of GPU for faster computations. Make sure you have CUDA enabled if using a GPU.
-The provided paths for images ('/content1.jpeg' and '/style.jpeg') should be updated to your specific image file paths.
+      Open Jupyter Notebook, navigate to the Notebook.
+      Then Open Dashtoon.ipynb in your browser.
+      Run the cells in the notebook one by one to execute the style transfer algorithm.
+      **Note**
+      The notebook assumes the availability of GPU for faster computations. Make sure you have CUDA enabled if using a GPU.
+      The provided paths for images ('/content1.jpeg' and '/style.jpeg') should be updated to your specific image file paths.
 
 
