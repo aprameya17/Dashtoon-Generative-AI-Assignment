@@ -1,6 +1,6 @@
 # Dashtoon Generative AI Assignment
 
-This repository contains code for a deep learning model capable of adapting an existing work to resemble the aesthetic of any art.
+This repository contains the code for a deep learning model capable of adapting an existing work to resemble the aesthetic of any art.
 
 ## Setup and Usage
 1. **Clone the Repository**
