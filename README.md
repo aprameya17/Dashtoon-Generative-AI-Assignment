@@ -20,4 +20,17 @@ Ensure you have the necessary libraries such as the following installed:<br />
 -NumPy  <br />
 -Matplotlib
 
+3. **Running the Notebook**
+Open Jupyter Notebook
+
+jupyter notebook
+
+Navigate to the Notebook
+
+Open style_transfer.ipynb in your browser.
+Run the cells in the notebook one by one to execute the style transfer algorithm.
+**Note**
+The notebook assumes the availability of GPU for faster computations. Make sure you have CUDA enabled if using a GPU.
+The provided paths for images ('/content1.jpeg' and '/style.jpeg') should be updated to your specific image file paths.
+
 
