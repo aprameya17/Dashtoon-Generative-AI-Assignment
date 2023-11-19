@@ -23,14 +23,17 @@ This repository contains code for a deep learning model capable of adapting an e
      (ii) Then open Dashtoon.ipynb in your browser. <br />
     (iii) Run the cells in the notebook one by one to execute the style transfer algorithm. <br />
 
-4. **References**
-   [1] Johnson, J. (2019). Towards the Algorithmic Detection of Artistic Style. International Journal of Advanced Computer Science and Applications, 10(1). DOI: 10.14569/IJACSA.2019.0100109
-   [2] X. Hou et al., "Learning Based Image Transformation Using Convolutional Neural Networks," in IEEE Access, vol. 6, pp. 49779-49792, 2018, doi: 10.1109/ACCESS.2018.2868733.
-
-   P.S : Used a lot of medium articles to understand how to build the model as well and the working behind the algorithms.
 
       **Note**  <br />
       The notebook assumes the availability of GPU for faster computations. Make sure you have CUDA enabled if using a GPU.
       The provided paths for images ('/content1.jpeg' and '/style.jpeg') should be updated to your specific image file paths.
+
+ 4. **References**
+
+      [1] Johnson, J. (2019). Towards the Algorithmic Detection of Artistic Style. International Journal of Advanced Computer Science and Applications, 10(1). DOI: 10.14569/IJACSA.2019.0100109
+      [2] X. Hou et al., "Learning Based Image Transformation Using Convolutional Neural Networks," in IEEE Access, vol. 6, pp. 49779-49792, 2018, doi: 10.1109/ACCESS.2018.2868733.
+
+      P.S. I used a lot of medium articles to understand how to build the model as well and the working behind the algorithms.
+  
 
 
