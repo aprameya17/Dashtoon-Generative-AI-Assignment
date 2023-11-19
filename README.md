@@ -13,15 +13,15 @@ This repository contains code for an image style transfer algorithm using VGG19 
 
 2. **Install Dependencies**
 
--Python<br />
-Ensure you have the necessary libraries such as the following installed:<br />
+   -Python<br />
+    Ensure you have the necessary libraries such as the following installed:<br />
 -PyTorch <br />
 -TorchVision <br />
 -NumPy  <br />
 -Matplotlib
 
-3. **Running the Notebook**
-Open Jupyter Notebook
+3. **Running the Notebook**<br />
+      Open Jupyter Notebook
 
 jupyter notebook
 
