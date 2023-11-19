@@ -1,11 +1,8 @@
 # Dashtoon Generative AI Assignment
 
-This repository contains code for an image style transfer algorithm using VGG19 neural network architecture.
+This repository contains code for a deep learning model capable of adapting an existing work to resemble the aesthetic of any art.
 
 ## Setup and Usage
-
-### Environment Setup
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/aprameya17/Dashtoon-Generative-AI-Assignment.git
