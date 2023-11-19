@@ -13,12 +13,13 @@ This repository contains code for an image style transfer algorithm using VGG19 
 
 2. **Install Dependencies**
 
-Make sure you have Python installed. You can download it from python.org.
-
+-Python
 Use pip (Python's package manager) to install the required dependencies.
-
-bash
-Copy code
 pip install -r requirements.txt
-Ensure you have the necessary libraries such as PyTorch, TorchVision, NumPy, and Matplotlib installed.
+Ensure you have the necessary libraries such as the following installed:
+-PyTorch
+-TorchVision
+-NumPy
+-Matplotlib
+
 
